@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "Classic Teddy Bear",
+    "imageUrl": "https://picsum.photos/200?random=1",
+    "price": 19.99,
+    "description": "A soft and cuddly classic teddy bear that brings warmth and comfort to any child's heart.",
+    "monthlyPriceChanges": [
+      {"month": "Jan", "price": 19.50},
+      {"month": "Feb", "price": 20.28},
+      {"month": "Mar", "price": 19.92},
+      {"month": "Apr", "price": 20.81},
+      {"month": "May", "price": 20.03},
+      {"month": "Jun", "price": 20.81},
+      {"month": "Jul", "price": 18.81},
+      {"month": "Aug", "price": 19.12},
+      {"month": "Sep", "price": 19.85},
+      {"month": "Oct", "price": 19.63},
+      {"month": "Nov", "price": 19.74},
+      {"month": "Dec", "price": 21.38}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Building Blocks Set",
+    "imageUrl": "https://picsum.photos/200?random=2",
+    "price": 24.99,
+    "description": "Colorful building blocks set that inspires creativity and improves motor skills in young builders.",
+    "monthlyPriceChanges": [
+      {"month": "Jan", "price": 24.82},
+      {"month": "Feb", "price": 24.83},
+      {"month": "Mar", "price": 26.26},
+      {"month": "Apr", "price": 24.01},
+      {"month": "May", "price": 24.18},
+      {"month": "Jun", "price": 24.31},
+      {"month": "Jul", "price": 23.84},
+      {"month": "Aug", "price": 25.09},
+      {"month": "Sep", "price": 24.64},
+      {"month": "Oct", "price": 23.56},
+      {"month": "Nov", "price": 24.59},
+      {"month": "Dec", "price": 26.22}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Remote Control Car",
+    "imageUrl": "https://picsum.photos/200?random=3",
+    "price": 29.99,
+    "description": "A high-speed remote control car that provides endless hours of fast-paced fun and excitement.",
+    "monthlyPriceChanges": [
+      {"month": "Jan", "price": 28.87},
+      {"month": "Feb", "price": 29.35},
+      {"month": "Mar", "price": 31.41},
+      {"month": "Apr", "price": 29.16},
+      {"month": "May", "price": 30.66},
+      {"month": "Jun", "price": 30.89},
+      {"month": "Jul", "price": 30.51},
+      {"month": "Aug", "price": 29.03},
+      {"month": "Sep", "price": 29.34},
+      {"month": "Oct", "price": 28.70},
+      {"month": "Nov", "price": 30.13},
+      {"month": "Dec", "price": 29.65}
+    ]
+  }
+]
